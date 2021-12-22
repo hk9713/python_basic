@@ -3,3 +3,7 @@
 ## [김왼손의 왼손코딩] 미운코딩새끼: 4시간 만에 끝내는 파이썬 기초
 - 이론 정리
 https://hk713-swsd.notion.site/d02777f8951241cda464e837a0516f62
+- 실습 코드<br>
+  ex_comprehension.py <br>
+  ex_function.py<br>
+  ex_random.py<br>
