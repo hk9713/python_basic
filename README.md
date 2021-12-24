@@ -7,3 +7,5 @@ https://hk713-swsd.notion.site/d02777f8951241cda464e837a0516f62
   ex_comprehension.py <br>
   ex_function.py<br>
   ex_random.py<br>
+  
+## [김왼손의 왼손코딩] 1일 1파이썬: 초급자르 위하 파이썬 50제
